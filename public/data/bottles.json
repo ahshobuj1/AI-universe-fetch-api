@@ -1,0 +1,164 @@
+{
+    "bottles": [
+        {
+            "id": 1,
+            "name": "Glass Bottle",
+            "material": "Glass",
+            "capacity_ml": 500,
+            "color": "Clear",
+            "image_url": "https://example.com/glass_bottle.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Plastic Bottle",
+            "material": "Plastic",
+            "capacity_ml": 750,
+            "color": "Blue",
+            "image_url": "https://example.com/plastic_bottle.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Stainless Steel Bottle",
+            "material": "Stainless Steel",
+            "capacity_ml": 1000,
+            "color": "Silver",
+            "image_url": "https://example.com/stainless_steel_bottle.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Aluminum Water Bottle",
+            "material": "Aluminum",
+            "capacity_ml": 600,
+            "color": "Red",
+            "image_url": "https://example.com/aluminum_bottle.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Ceramic Mug",
+            "material": "Ceramic",
+            "capacity_ml": 350,
+            "color": "White",
+            "image_url": "https://example.com/ceramic_mug.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Reusable Plastic Sports Bottle",
+            "material": "Plastic",
+            "capacity_ml": 1000,
+            "color": "Green",
+            "image_url": "https://example.com/plastic_sports_bottle.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Copper Water Bottle",
+            "material": "Copper",
+            "capacity_ml": 900,
+            "color": "Brown",
+            "image_url": "https://example.com/copper_bottle.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Glass Mason Jar",
+            "material": "Glass",
+            "capacity_ml": 400,
+            "color": "Clear",
+            "image_url": "https://example.com/glass_mason_jar.jpg"
+        },
+        {
+            "id": 9,
+            "name": "BPA-Free Plastic Squeeze Bottle",
+            "material": "Plastic",
+            "capacity_ml": 500,
+            "color": "Yellow",
+            "image_url": "https://example.com/plastic_squeeze_bottle.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Steel Thermos",
+            "material": "Stainless Steel",
+            "capacity_ml": 1200,
+            "color": "Black",
+            "image_url": "https://example.com/steel_thermos.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Glass Water Bottle with Silicone Sleeve",
+            "material": "Glass",
+            "capacity_ml": 550,
+            "color": "Blue",
+            "image_url": "https://example.com/glass_silicone_bottle.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Insulated Stainless Steel Tumbler",
+            "material": "Stainless Steel",
+            "capacity_ml": 400,
+            "color": "Purple",
+            "image_url": "https://example.com/stainless_steel_tumbler.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Biodegradable Bamboo Bottle",
+            "material": "Bamboo",
+            "capacity_ml": 800,
+            "color": "Natural",
+            "image_url": "https://example.com/bamboo_bottle.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Titanium Camping Flask",
+            "material": "Titanium",
+            "capacity_ml": 600,
+            "color": "Silver",
+            "image_url": "https://example.com/titanium_flask.jpg"
+        },
+        {
+            "id": 15,
+            "name": "PETG Plastic Water Bottle",
+            "material": "Plastic",
+            "capacity_ml": 1000,
+            "color": "Purple",
+            "image_url": "https://example.com/petg_plastic_bottle.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Double-Walled Glass Bottle",
+            "material": "Glass",
+            "capacity_ml": 450,
+            "color": "Green",
+            "image_url": "https://example.com/double_walled_glass_bottle.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Collapsible Silicone Water Bottle",
+            "material": "Silicone",
+            "capacity_ml": 500,
+            "color": "Pink",
+            "image_url": "https://example.com/silicone_collapsible_bottle.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Recycled Plastic Eco Bottle",
+            "material": "Recycled Plastic",
+            "capacity_ml": 700,
+            "color": "Gray",
+            "image_url": "https://example.com/recycled_plastic_bottle.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Wooden Water Bottle",
+            "material": "Wood",
+            "capacity_ml": 600,
+            "color": "Brown",
+            "image_url": "https://example.com/wooden_bottle.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Glass Infuser Bottle",
+            "material": "Glass",
+            "capacity_ml": 700,
+            "color": "Clear",
+            "image_url": "https://example.com/glass_infuser_bottle.jpg"
+        }
+    ]
+}
