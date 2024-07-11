@@ -2,9 +2,9 @@ const Bottle = ({tool}) => {
     const {published_in, name, description, image, features, links} = tool;
     console.log(tool);
     return (
-        <div className="p-2 space-y-1 border-2 border-red-600 rounded-xl">
-            <div className="w-80 pb-6">
-                <img src={image} alt={name} className="rounded-xl w-80" />
+        <div className="p-2 space-y-1 border-2 border-red-600 rounded-xl ">
+            <div className="w-full pb-6 text-center ">
+                <img src={image} alt={name} className="rounded-xl " />
             </div>
 
             <h2 className="text-2xl font-semibold">Features</h2>
